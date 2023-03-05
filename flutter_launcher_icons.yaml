@@ -1,0 +1,12 @@
+flutter_icons:
+  image_path: "assets/icon.png"
+  android: true
+  ios: false
+  min_sdk_version: 21
+  windows:
+    generate: true
+    image_path: "assets/icon.png"
+  macos:
+    generate: false
+    image_path: "assets/icon.png"
+  
